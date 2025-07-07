@@ -11,5 +11,5 @@ This project uses Python to explore the data behind the bike share systems in Ch
 The code can be retreived from bikeshare.py. The data is housed in chicago.csv, washington.csv, and new_york_city.csv.
 
 ### Credits
-This project was completed with the guidance of Udacity as part of the Programming for Data Science with Python Nanodegree.
+This project was created by Udacity as part of the Programming for Data Science with Python Nanodegree.
 
