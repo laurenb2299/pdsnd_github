@@ -5,7 +5,7 @@ This project was created on July 7th, 2025. It was forked from the Udacity pdsnd
 Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+This project uses Python to explore the data behind the bike share systems in Chicago, Washington, and New York City. NumPy and Pandas are used within Python to select the city, day of week, and month to compute statistics surrounding user information, the most popular stations, usage windows, etc. 
 
 ### Files used
 Include the files used
