@@ -177,7 +177,7 @@ def user_stats(df, city):
         print('The latest birth year was: ' + str(int(latest_birth_year)))
         print('The most common birth year was: ' + str(int(most_common_birth_year)))
     else:
-        print('There is no birth year information for Washington')
+        print('There is no birth year information for Washington. Select Chicago or New York City for this statistic.')
     
 
     print("\nThis took %s seconds." % (time.time() - start_time))
